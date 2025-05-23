@@ -1,4 +1,3 @@
-```markdown
 # 🦊 EyeFox - Generator Password Aman & Terenkripsi
 
 **🔐 Buat Password Kuat dalam Sekali Klik!**  
