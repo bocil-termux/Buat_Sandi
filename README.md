@@ -29,7 +29,7 @@
 2. **Download EyeFox**:
    ```bash
    git clone https://github.com/bocil-termux/Buat_Sandi.git
-   cd EyeFox
+   cd Buat_Sandi
    ```
 
 3. **Instal bahan-bahan**:
