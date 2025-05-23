@@ -95,20 +95,3 @@ Proyek ini menggunakan [MIT License](LICENSE) - bebas digunakan untuk keperluan 
   <p>Dikembangkan dengan ❤️ oleh <strong>EyeFox</strong></p>
   <sub>© 2023 EyeFox Project | Versi 1.0.0</sub>
 </div>
-
-### 💡 Tips Tambahan:
-1. Untuk **screenshot asli**, ganti link placeholder dengan gambar nyata
-2. Tambahkan **video demo** (jika ada) di bagian Demo Penggunaan
-3. Untuk **badge**, tambahkan di bawah judul:
-```markdown
-![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Downloads](https://img.shields.io/badge/downloads-100%2B-orange)
-```
-
-File ini sudah:
-✅ Responsif  
-✅ Menyertakan semua informasi penting  
-✅ Memiliki visual menarik  
-✅ Bahasa Indonesia yang mudah dimengerti  
-✅ Siap dicopy langsung ke repo Anda
