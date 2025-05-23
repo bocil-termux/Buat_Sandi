@@ -92,10 +92,9 @@ Proyek ini menggunakan [MIT License](LICENSE) - bebas digunakan untuk keperluan 
 
 <div align="center">
   <br>
-  <p>Dikembangkan dengan ❤️ oleh <strong>Anda</strong></p>
+  <p>Dikembangkan dengan ❤️ oleh <strong>EyeFox</strong></p>
   <sub>© 2023 EyeFox Project | Versi 1.0.0</sub>
 </div>
-```
 
 ### 💡 Tips Tambahan:
 1. Untuk **screenshot asli**, ganti link placeholder dengan gambar nyata
