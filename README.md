@@ -93,5 +93,5 @@ Proyek ini menggunakan [MIT License](LICENSE) - bebas digunakan untuk keperluan 
 <div align="center">
   <br>
   <p>Dikembangkan dengan ❤️ oleh <strong>EyeFox</strong></p>
-  <sub>© 2023 EyeFox Project | Versi 1.0.0</sub>
+  <sub>© 2025 EyeFox Project | Versi 1.0.0</sub>
 </div>
