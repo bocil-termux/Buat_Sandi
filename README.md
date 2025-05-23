@@ -3,7 +3,7 @@
 **🔐 Buat Password Kuat dalam Sekali Klik!**  
 *Simpan semua kata sandi Anda dengan aman tanpa khawatir kebocoran data.*
 
-![EyeFox Banner](https://via.placeholder.com/800x200/1e293b/ffffff?text=EyeFox+Password+Generator)  
+![EyeFox Banner](https://raw.githubusercontent.com/bocil-termux/Buat_Sandi/refs/heads/main/file_000000005500622f977c3f8804e1b073.png)  
 *Ganti dengan screenshot asli jika ada*
 
 ## 🌟 Kenapa Memilih EyeFox?
