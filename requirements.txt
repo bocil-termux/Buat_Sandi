@@ -1,0 +1,5 @@
+colorama
+cryptography
+hashlib
+pyfiglet
+termcolor
