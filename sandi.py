@@ -101,7 +101,7 @@ def buat_password(nama_pengguna):
     print(SUKSES + "║" + " " * 15 + "🔑 KATA SANDI ANDA" + " " * 25 + "║")
     print(SUKSES + "╠" + "═" * 58 + "╣")
     print(SUKSES + f"║  🏷️ WEB  : {SOROT}{akun.ljust(44)}" + " " * 3 + RESET + SUKSES + "║")
-    print(SUKSES + f"║  📊 ID  : {SOROT}{str(id_angka).ljust(44)}" + " " * 2 + RESET + SUKSES + "║")
+    print(SUKSES + f"║  📊 ID  : {SOROT}{str(id_angka).ljust(44)}" + " " * 3 + RESET + SUKSES + "║")
     print(SUKSES + "╠" + "═" * 58 + "╣")
     print(SUKSES + "║" + " " * 20 + SOROT + f"  {kata_sandi}  " + Style.RESET_ALL + SUKSES + " " * 22 + "║")
     print(SUKSES + "╚" + "═" * 58 + "╝")
