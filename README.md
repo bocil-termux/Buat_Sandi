@@ -21,7 +21,7 @@
 | 🧩 Multi-Platform | Support untuk 8+ platform populer |
 
 ## 📥 Instalasi Super Mudah
-1. **Pastikan Python 3.6+ terinstal**:
+1. **Pastikan Python terinstal**:
    ```bash
    python --version
    ```
@@ -29,7 +29,7 @@
 
 2. **Download EyeFox**:
    ```bash
-   git clone https://github.com/username/EyeFox.git
+   git clone https://github.com/bocil-termux/Buat_Sandi.git
    cd EyeFox
    ```
 
